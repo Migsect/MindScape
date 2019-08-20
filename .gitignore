@@ -9,10 +9,10 @@ compile_commands.json
 CTestTestfile.cmake
 
 
-./build/
-./PT_BuildVars\.txt
+build/
+MindScape_BuildVars\.txt
 
-*/.vs
-./\.vscode/settings\.json
-./\.vscode/
+\.vs/*
+\.vscode/settings\.json
+\.vscode/
 ./CMakeSettings\.json/
